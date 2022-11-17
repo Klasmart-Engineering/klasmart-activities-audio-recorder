@@ -17,7 +17,7 @@
     "ava": "^0.25.0",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
-    "babel-loader": "^6.3.2",
+    "babel-loader": "^9.1.0",
     "babel-plugin-transform-object-assign": "^6.22.0",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "babel-preset-latest": "^6.22.0",
@@ -37,7 +37,7 @@
     "url-loader": "^0.5.8",
     "vue-loader": "^11.2.0",
     "vue-template-compiler": "^2.2.4",
-    "webpack": "^2.2.1"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "vue": "^2.2.4"
